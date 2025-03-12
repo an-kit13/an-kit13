@@ -49,6 +49,6 @@
 
 ---
 
-⚡ **Fun Fact**: I use GitHub only when I need it, but every push takes me closer to mastering version control! 😆  
+⚡Each push brings me closer to mastering version control. 
 
 🔭 **Looking for collaboration?** Feel free to reach out! 🤝  
